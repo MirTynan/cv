@@ -1,0 +1,11 @@
+body {background-color:#F1C6D3;}
+hr
+{border-color:#E75480;
+border-style:dotted none none;
+border-width:5px;
+width:5%;
+}
+h1 {color:#A91079;}
+h3 {color:#680747;}
+
+.circular {border-radius: 100%}
